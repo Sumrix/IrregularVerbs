@@ -1,0 +1,195 @@
+﻿abide     abode                abode                пребывать, придерживаться чего-либо               
+arise     arose                arisen               возникать, подниматься                            
+awake     awoke                awoken               будить, просыпаться                               
+be        was; were            been                 быть, являться                                    
+bear      bore                 born                 носить, рождать                                   
+beat      beat                 beaten               бить                                              
+become    became               become               становиться, делаться                             
+befall    befell               befallen             случаться                                         
+begin     began                begun                начинать(ся)                                      
+behold    beheld               beheld               вглядываться, замечать                            
+bend      bent                 bent                 гнуть(ся), сгибать(ся)                            
+beseech   besought             besought             умолять, упрашивать                               
+beset     beset                beset                окружать, осаждать                                
+bet       bet                  bet                  держать пари                                      
+bid       bid                  bid                  предлагать цену, велеть, просить                  
+bind      bound                bound                связывать                                         
+bite      bit                  bitten               кусать(ся)                                        
+bleed     bled                 bled                 кровоточить, опорожнять                           
+blow      blew                 blown                дуть                                              
+break     broke                broken               ломать, прерывать, разбивать                      
+breed     bred                 bred                 порождать, разводить, выводить                    
+bring     brought              brought              приносить, приводить                              
+broadcast broadcast            broadcast            вещать, распространять                            
+build     built                built                строить, встраивать                               
+burn      burnt                burnt                гореть, сжигать                                   
+burst     burst                burst                взрывать(ся)                                      
+buy       bought               bought               покупать                                          
+can       could                could                мочь физически                                    
+cast      cast                 cast                 бросать, лить (металл)                            
+catch     caught               caught               ловить, схватывать                                
+choose    chose                chosen               выбирать                                          
+cling     clung                clung                прилипать, цеплять, льнуть                        
+cleave    cleft                cloven               рассечь, расколоть                                
+clothe    clothed              clothed              одеть, одевать                                    
+come      came                 come                 приходить                                         
+cost      cost                 cost                 оценивать, стоить                                 
+creep     crept                crept                ползать                                           
+cut       cut                  cut                  резать, обрезать                                  
+dare      durst                dared                сметь                                             
+deal      dealt                dealt                иметь дело, торговать, рассматривать вопрос       
+dig       dug                  dug                  копать                                            
+dive      dove                 dived                нырять                                            
+do/does   did                  done                 делать                                            
+draw      drew                 drawn                тащить, чертить                                   
+dream     dreamt               dreamt               видеть сны, мечтать                               
+drink     drank                drunk                пить, выпивать                                    
+drive     drove                driven               ехать, везти, водить, гнать                       
+dwell     dwelt                dwelt                обитать, пребывать, задерживаться на чем-либо     
+eat       ate                  eaten                есть, принимать пищу, кушать                      
+fall      fell                 fallen               падать                                            
+feed      fed                  fed                  кормить(ся)                                       
+feel      felt                 felt                 чувствовать                                       
+fight     fought               fought               бороться, сражаться                               
+find      found                found                находить                                          
+fit       fit                  fit                  подходить, годиться                               
+flee      fled                 fled                 бежать, спасаться бегством                        
+fling     flung                flung                кидать, бросать                                   
+fly       flew                 flown                летать, пролетать                                 
+forbid    forbade              forbidden            запрещать                                         
+forecast  forecast; forecasted forecast; forecasted предвидеть, предсказывать                         
+forget    forgot               forgotten            забывать                                          
+forego    forewent             foregone             отказываться, воздерживаться                      
+foretell  foretold             foretold             предсказывать, прогнозировать                     
+forgive   forgave              forgiven             прощать,                                          
+forsake   forsook              forsaken             бросать, отказываться                             
+freeze    froze                frozen               замерзать, замораживать                           
+get       got                  got                  получать, становиться                             
+gild      gilt; gilded         gilt; gilded         позолотить                                        
+give      gave                 given                давать                                            
+go/goes   went                 gone                 идти, ехать                                       
+grind     ground               ground               точить, молоть                                    
+grow      grew                 grown                расти, выращивать                                 
+hang      hung; hanged         hung; hanged         висеть, вешать                                    
+have      had                  had                  иметь, обладать                                   
+hew       hewed                hewed; hewn          рубить, тесать                                    
+hear      heard                heard                слышать                                           
+hide      hid                  hidden               прятать, прятаться                                
+hit       hit                  hit                  ударять, поражать                                 
+hold      held                 held                 держать, поддерживать (владеть)                   
+hurt      hurt                 hurt                 повредить, причинять боль, ранить                 
+keep      kept                 kept                 держать, хранить                                  
+kneel     knelt; kneeled       knelt; kneeled       становиться на колени                             
+knit      knit; knitted        knit; knitted        вязать                                            
+know      knew                 known                знать                                             
+lay       laid                 laid                 класть                                            
+lead      led                  led                  вести, сопровождать                               
+lean      leant; leaned        leant; leaned        опираться, прислоняться                           
+leap      leapt; leaped        leapt; leaped        прыгать                                           
+learn     learnt; learned      learnt; learned      учиться, узнавать                                 
+leave     left                 left                 оставлять, уезжать                                
+lend      lent                 lent                 одалживать, давать взаймы                         
+let       let                  let                  позволять, сдавать в наём                         
+lie       lay                  lain                 лежать                                            
+light     lit; lighted         lit; lighted         зажигать, освещать                                
+lose      lost                 lost                 терять                                            
+make      made                 made                 делать, заставлять                                
+may       might                might                мочь, иметь право                                 
+mean      meant                meant                значить, подразумевать                            
+meet      met                  met                  встречать, знакомиться                            
+mishear   misheard             misheard             ослышаться                                        
+mislay    mislaid              mislaid              класть не на место                                
+mistake   mistook              mistaken             ошибаться, заблуждаться                           
+mow       mowed                mown                 косить                                            
+overtake  overtook             overtaken            догнать                                           
+pay       paid                 paid                 платить                                           
+prove     proved               proved; proven       доказывать, удостоверять                          
+put       put                  put                  класть                                            
+quit      quit; quitted        quit; quitted        оставлять, покидать                               
+read      read; red            read; red            читать                                            
+rebuild   rebuilt              rebuilt              перестраивать, восстанавливать                    
+rid       rid; ridded          rid; ridded          освобождать, избавлять                            
+ride      rode                 ridden               ехать верхом                                      
+ring      rang                 rung                 звонить, звенеть                                  
+rise      rose                 risen                подниматься, восходить                            
+run       ran                  run                  бежать, течь                                      
+saw       sawed                sawn; sawed          пилить                                            
+say       said                 said                 говорить, сказать                                 
+see       saw                  seen                 видеть                                            
+seek      sought               sought               искать                                            
+sell      sold                 sold                 продавать                                         
+send      sent                 sent                 посылать, отправлять                              
+set       set                  set                  помещать, ставить                                 
+sew       sewed                sewed; sewn          шить                                              
+shake     shook                shaken               трясти                                            
+shall     should               should               быть должным                                      
+shave     shaved               shaved               брить(ся)                                         
+shear     sheared              shorn                стричь, резать; лишать                            
+shed      shed                 shed                 сбрасывать, проливать                             
+shine     shone; shined        shone; shined        сиять, светить                                    
+shoe      shod                 shod                 обувать, подковывать                              
+shoot     shot                 shot                 стрелять                                          
+show      showed               shown; showed        показывать                                        
+shrink    shrank; shrunk       shrunk               сокращаться, сжиматься, отскочить, отпрянуть      
+shut      shut                 shut                 закрывать                                         
+sing      sang                 sung                 петь                                              
+sink      sank                 sunk                 опускаться, погружаться, тонуть                   
+sit       sat                  sat                  сидеть                                            
+slay      slew                 slain                убивать, уничтожать                               
+sleep     slept                slept                спать                                             
+slide     slid                 slid                 скользить                                         
+sling     slung                slung                швырять, швырнуть, вешать через плечо, подвешивать
+slit      slit                 slit                 резать в длину, вдоль                             
+smell     smelt; smelled       smelt; smelled       пахнуть, нюхать                                   
+sow       sowed                sowed; sown          сеять                                             
+speak     spoke                spoken               говорить                                          
+speed     sped; speeded        sped; speeded        спешить, ускорять                                 
+spell     spelt; spelled       spelt; spelled       писать, произносить слово по буквам               
+spend     spent                spent                тратить, истощать                                 
+spill     spilt                spilt                проливать                                         
+spin      spun                 spun                 прясть                                            
+spit      spat                 spat                 плевать, насаживать, натыкать, про-               
+split     split                split                раскалывать, расщеплять                           
+spoil     spoilt; spoiled      spoilt; spoiled      портить, баловать                                 
+spread    spread               spread               распространяться                                  
+spring    sprang               sprung               прыгать, вскочить                                 
+stand     stood                stood                стоять                                            
+steal     stole                stolen               воровать, красть                                  
+stick     stuck                stuck                втыкать, приклеивать(ся), липнуть                 
+sting     stung                stung                жалить                                            
+stink     stank; stunk         stunk                вонять, отталкивать                               
+strew     strewed              strewn; strewed      усеять, разбрасывать, расстилать                  
+stride    strode               stridden             шагать                                            
+strike    struck               struck               ударять, поражать, бастовать                      
+string    strung               strung               связывать, натягивать, нанизывать                 
+strive    strove               striven              стремиться, стараться                             
+swear     swore                sworn                клясться, присягать, браниться                    
+sweep     swept                swept                мести                                             
+swell     swelled              swollen; swelled     пухнуть, раздуваться, набухать                    
+swim      swam                 swum                 плавать                                           
+swing     swung                swung                качать(ся), размахивать                           
+take      took                 taken                брать                                             
+teach     taught               taught               обучать, учить                                    
+tear      tore                 torn                 рвать, раз-, с-, от-                              
+tell      told                 told                 рассказывать, сообщать                            
+think     thought              thought              думать                                            
+throw     threw                thrown               кидать, бросать                                   
+thrust    thrust               thrust               толкать, колоть, выгонять, сунуть                 
+tread     trod                 trod; trodden        ступать                                           
+unbend    unbent               unbent               разгибаться                                       
+undergo   underwent            undergone            испытывать, переносить                            
+understandunderstood           understood           понимать                                          
+undertake undertook            undertaken           предпринимать, гарантировать                      
+upset     upset                upset                опрокидывать, обжимать                            
+wake      woke; waked          woken; waked         будить, просыпаться                               
+wear      wore                 worn                 носить (одежду)                                   
+weave     wove; weaved         woven; weaved        ткать                                             
+wed       wed; wedded          wed; wedded          венчать(ся), выдавать замуж                       
+weep      wept                 wept                 плакать                                           
+will      would                would                хотеть быть                                       
+wet       wet; wetted          wet; wetted          мочить, вы-, про-                                 
+win       won                  won                  выигрывать, получать                              
+wind      wound                wound                заводить (механизм), виться                       
+withdraw  withdrew             withdrawn            брать назад, отнимать                             
+wring     wrung                wrung                жать, выжимать, скручивать                        
+write     wrote                written              писать                                            
